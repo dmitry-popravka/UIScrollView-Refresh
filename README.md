@@ -1,2 +1,2 @@
 # UIScrollView-Refresh
-Header and footer scroll for UITableView and UICollectionView
+Header and footer refresh for UITableView and UICollectionView (Swift 4) 
